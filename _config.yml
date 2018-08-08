@@ -7,9 +7,9 @@ baseurl: "https://yangalpha.github.io/blog17/" # the subpath of your site, e.g. 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: 杨绮 # add your name
+author: YANG ALPHA # add your name
 author-pic: avatar1.jpg
-about-author: 
+about-author: YANG ALPHA的博客，是关于健身、阅读以及其它的林林总总
 
 # Contact links
 email: yangalpha@live.cn # Add your Email address
@@ -26,7 +26,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier:  # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
